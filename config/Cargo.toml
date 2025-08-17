@@ -1,6 +1,9 @@
 [package]
-name = "vm"
+name = "config"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+[lib]
+path = "config.rs"

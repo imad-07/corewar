@@ -1,4 +1,4 @@
-;pub const  IND_SIZE = 2;
+pub const  IND_SIZE = 2;
 pub const  REG_SIZE = 4;
 pub const  DIR_SIZE = REG_SIZE;
 
